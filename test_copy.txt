@@ -1,0 +1,3 @@
+This is a great example of some hard work that has paid off over the course of a couple of hours or so of dedicated learning.
+The online example called this exercise the creation of a "Simple Little Text Editor."
+It is only after the completion of this task in its entirety and having a day to think about it have I realized how this is actually a text editor. Beautiful.

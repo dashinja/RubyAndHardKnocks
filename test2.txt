@@ -1,0 +1,4 @@
+This is the contents of the second file that I made myself.
+Another text file that will receive the read command from
+the little script I put together and the contents thereof
+shall be made manifest to the operator. Like so, you've read me.
